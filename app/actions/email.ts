@@ -72,7 +72,7 @@ export async function sendEmailNotification(formData: FormData) {
                   <p>In the meantime, feel free to:</p>
                   <ul>
                     <li>Visit our website: <a href="https://quicklaunchdigital.vercel.app" style="color: #2563eb;">quicklaunchdigital.vercel.app</a></li>
-                    <li>Call us directly: <a href="tel:8083285661" style="color: #2563eb;">+91 8083285661</a></li>
+                    <li>Call us directly: <a href="tel:7617604486" style="color: #2563eb;">+91 7617604486</a></li>
                     <li>Check out our services and portfolio</li>
                   </ul>
                   
@@ -83,13 +83,13 @@ export async function sendEmailNotification(formData: FormData) {
                   <p>
                     <strong>Quick Launch Digital</strong><br>
                     Make your Presence Online This Year<br>
-                    T: <a href="tel:8083285661" style="color: #2563eb;">8083285661</a><br>
+                    T: <a href="tel:7617604486" style="color: #2563eb;">7617604486</a><br>
                     E: <a href="mailto:quicklaunchdigital4u@gmail.com" style="color: #2563eb;">quicklaunchdigital4u@gmail.com</a>
                   </p>
                   
                   <div class="social-links">
                     <a href="https://linkedin.com/company/quicklaunchdigital" style="color: #2563eb;">LinkedIn</a> |
-                    <a href="https://wa.me/918083285661" style="color: #2563eb;">WhatsApp</a> |
+                    <a href="https://wa.me/917617604486" style="color: #2563eb;">WhatsApp</a> |
                     <a href="https://github.com/quicklaunchdigital" style="color: #2563eb;">GitHub</a>
                   </div>
 

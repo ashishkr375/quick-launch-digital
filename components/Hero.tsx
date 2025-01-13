@@ -55,18 +55,17 @@ export default function Hero() {
                 className="flex items-center justify-center px-6 py-3 rounded-full bg-white text-slate-900 text-lg font-semibold ring-1 ring-slate-200 hover:bg-slate-50 transition-colors duration-200"
               >
                 <a 
-              href="https://wa.me/918083285661" 
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-3"
-              
-            >
-              <MessageCircle className="w-5 h-5" />
-              <div>
-                <div className="font-semibold">Send Message</div>
-                <div className="text-sm">We'll reply within 30min</div>
-              </div>
-            </a>
+                  href="https://wa.me/917617604486" 
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-3"
+                >
+                  <MessageCircle className="w-5 h-5" />
+                  <div>
+                    <div className="font-semibold">Send Message</div>
+                    <div className="text-sm">We'll reply within 30min</div>
+                  </div>
+                </a>
                 {/* <span className="block text-sm mt-0.5">डेमो देखें</span> */}
               </motion.button>
             </div>

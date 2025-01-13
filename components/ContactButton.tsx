@@ -27,18 +27,18 @@ export default function ContactButton() {
             </div>
             
             <a 
-              href="tel:+919011411919" 
+              href="tel:+917617604486" 
               className="flex items-center gap-3 bg-emerald-500 text-white p-3 rounded-lg mb-3 hover:bg-emerald-600 transition-colors"
             >
               <Phone className="w-5 h-5" />
               <div>
                 <div className="font-semibold">Call Us Now</div>
-                <div className="text-sm">+91 8083285661</div>
+                <div className="text-sm">+91 7617604486</div>
               </div>
             </a>
 
             <a 
-              href="https://wa.me/918083285661" 
+              href="https://wa.me/917617604486" 
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 bg-blue-500 text-white p-3 rounded-lg hover:bg-blue-600 transition-colors"

@@ -99,7 +99,7 @@ export default function ContactForm({ isOpen, onClose }: ContactFormProps) {
                   Thank you for contacting us!
                 </h3>
                 <p className="text-gray-600">
-                  Our team will contact you soon, or you can call us directly at +91 8083285661
+                  Our team will contact you soon, or you can call us directly at +91 7617604486
                 </p>
               </motion.div>
             ) : (
