@@ -61,7 +61,7 @@ export async function sendEmailNotification(formData: FormData) {
             <body>
               <div class="container">
                 <div class="header">
-                  <img src="https://i.postimg.cc/qRKnm51j/wmremove-transformed-1.png" alt="Quick Launch Digital Logo" style="max-width: 200px;">
+                  <img src="https://i.postimg.cc/445MwLjJ/wmremove-transformed-removebg-preview-1.png" alt="Quick Launch Digital Logo" style="max-width: 200px;">
                 </div>
                 
                 <div class="content">
@@ -76,7 +76,7 @@ export async function sendEmailNotification(formData: FormData) {
                     <li>Check out our services and portfolio</li>
                   </ul>
                   
-                  <img src="https://i.postimg.cc/K8d89vCh/image.png" alt="Quick Launch Digital Banner" style="max-width: 100%; margin-top: 20px; border-radius: 4px;">
+                  <img src="https://i.postimg.cc/xC7kSy4q/Screenshot-2025-01-13-230606.png" alt="Quick Launch Digital Banner" style="max-width: 100%; margin-top: 20px; border-radius: 4px;">
                 </div>
 
                 <div class="footer">
