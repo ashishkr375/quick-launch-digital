@@ -83,7 +83,7 @@ export default function Hero() {
               <div className="absolute -bottom-8 left-20 w-72 h-72 bg-pink-300 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-4000" />
               <div className="relative">
                 <img
-                  src="https://i.postimg.cc/ryQn5dts/image.png"
+                  src="https://i.ibb.co/RHNYY4b/image.png" //<a href="https://ibb.co/bdFQQRm"><img src="https://i.ibb.co/RHNYY4b/image.png" alt="image" border="0"></a>
                   alt="Small business going digital"
                   className="w-full rounded-2xl shadow-2xl"
                 />

@@ -7,25 +7,25 @@ const teamMembers = [
   {
     name: "Ashish Kumar",
     role: "CEO & Co-founder",
-    image: "https://i.postimg.cc/R017L8q9/image.png",
-    linkedin: "https://i.postimg.cc/Sx8f1jjW/image.png"
+    image: "https://i.ibb.co/rcJw8YG/image.png",//<a href="https://ibb.co/YyGLnm7"><img src="https://i.ibb.co/rcJw8YG/image.png" alt="image" border="0"></a>
+    linkedin: "https://www.linkedin.com/in/ashish-kumar-nitp/"
   },
   {
     name: "Diya Agrawal",
     role: "CTO & Co-founder",
-    image: "https://i.postimg.cc/cCbB2nQc/image.png",
+    image: "https://i.ibb.co/Zzy8VHQ/image.png",//<a href="https://imgbb.com/"><img src="https://i.ibb.co/Zzy8VHQ/image.png" alt="image" border="0"></a>
     
   },
   {
     name: "Amit Kumar",
     role: "Lead Developer",
-    image: "https://i.postimg.cc/1zQckPNb/image.png",
+    image: "https://i.ibb.co/By9LfhF/image.png", //<a href="https://imgbb.com/"><img src="https://i.ibb.co/By9LfhF/image.png" alt="image" border="0"></a>
     
   },
   {
     name: "Neha Gupta",
     role: "UX Designer",
-    image: "https://i.postimg.cc/5tSq1GBy/image.png",
+    image: "https://i.ibb.co/SmyPdTQ/image.png", //<a href="https://imgbb.com/"><img src="https://i.ibb.co/SmyPdTQ/image.png" alt="image" border="0"></a>
     
   }
 ]

@@ -24,7 +24,7 @@ export default function Header() {
           <div className="flex items-center">
             <Link href="/">
               <img 
-                src="https://i.postimg.cc/445MwLjJ/wmremove-transformed-removebg-preview-1.png" 
+                src="https://i.ibb.co/P9dRG91/wmremove-transformed-removebg-preview-1.png" 
                 alt="QuickLaunch Digital Logo" 
                 className="w-[230px] h-auto"
               />

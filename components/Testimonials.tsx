@@ -8,35 +8,35 @@ const testimonials = [
     author: "Ravi Mehta",
     role: "Coaching Center Director",
     rating: 5,
-    image: "https://i.postimg.cc/63HPtGDb/image.png"
+    image: "https://i.ibb.co/qRRSZPq/image.png" //<a href="https://imgbb.com/"><img src="https://i.ibb.co/qRRSZPq/image.png" alt="image" border="0"></a>
   },
   {
     content: "The team at QuickLaunch Digital truly understands the needs of educational institutions. Our school website and online platform are now more user-friendly and accessible than ever!",
     author: "Neha Verma",
     role: "School Principal",
     rating: 5,
-    image: "https://i.postimg.cc/1RBmVCZb/image.png"
+    image: "https://i.ibb.co/wYRJ9WH/image.png"//<a href="https://ibb.co/25y8Dt2"><img src="https://i.ibb.co/wYRJ9WH/image.png" alt="image" border="0"></a>
   },
   {
     content: "QuickLaunch Digital transformed my restaurant's online presence. The website was ready in just 2 days, and it's beautifully designed!",
     author: "Priya Sharma",
     role: "Restaurant Owner",
     rating: 5,
-    image: "https://i.postimg.cc/k5W9Jwc1/image.png"
+    image: "https://i.ibb.co/zG7zf2p/image.png" //<a href="https://ibb.co/sy6Z31n"><img src="https://i.ibb.co/zG7zf2p/image.png" alt="image" border="0"></a>
   },
   {
     content: "The team's expertise and quick turnaround time helped my business reach new customers. The mobile app is exactly what we needed.",
     author: "Rajesh Kumar",
     role: "Retail Business Owner",
     rating: 5,
-    image: "https://i.postimg.cc/nzH8HxMr/image.png"
+    image: "https://i.ibb.co/F60KNgg/image.png" //<a href="https://ibb.co/v1QHgZZ"><img src="https://i.ibb.co/F60KNgg/image.png" alt="image" border="0"></a>
   },
   {
     content: "Exceptional service! They made the whole process so simple, and now my boutique has a strong online presence.",
     author: "Anita Patel",
     role: "Fashion Boutique Owner",
     rating: 5,
-    image: "https://i.postimg.cc/CMryVW0M/image.png"
+    image: "https://i.ibb.co/gFvjzbm/image.png" //<a href="https://ibb.co/gFvjzbm"><img src="https://i.ibb.co/gFvjzbm/image.png" alt="image" border="0"></a>
   },
   
 ]

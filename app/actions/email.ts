@@ -61,7 +61,7 @@ export async function sendEmailNotification(formData: FormData) {
             <body>
               <div class="container">
                 <div class="header">
-                  <img src="https://i.postimg.cc/445MwLjJ/wmremove-transformed-removebg-preview-1.png" alt="Quick Launch Digital Logo" style="max-width: 200px;">
+                  <img src="https://i.ibb.co/P9dRG91/wmremove-transformed-removebg-preview-1.png" alt="Quick Launch Digital Logo" style="max-width: 200px;">
                 </div>
                 
                 <div class="content">

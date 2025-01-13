@@ -88,7 +88,7 @@ export default function CTA() {
             className="relative"
           >
             <img
-              src="https://i.postimg.cc/qMKK4S0r/image.png"
+              src="https://i.ibb.co/C9mSK1t/image.png"
               alt="Dashboard Preview"
               className="w-full rounded-lg shadow-xl"
             />
