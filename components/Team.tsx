@@ -8,24 +8,24 @@ const teamMembers = [
     name: "Ashish Kumar",
     role: "CEO & Co-founder",
     image: "https://i.postimg.cc/R017L8q9/image.png",
-    linkedin: "https://www.linkedin.com/in/ashish-kumar-nitp/"
+    linkedin: "https://i.postimg.cc/Sx8f1jjW/image.png"
   },
   {
     name: "Diya Agrawal",
     role: "CTO & Co-founder",
-    image: "https://i.postimg.cc/GttvrmKh/image.png",
+    image: "https://i.postimg.cc/cCbB2nQc/image.png",
     
   },
   {
     name: "Amit Kumar",
     role: "Lead Developer",
-    image: "https://i.postimg.cc/nhb9SkyL/image.png",
+    image: "https://i.postimg.cc/1zQckPNb/image.png",
     
   },
   {
     name: "Neha Gupta",
     role: "UX Designer",
-    image: "https://i.postimg.cc/fTxYNpjd/image.png",
+    image: "https://i.postimg.cc/5tSq1GBy/image.png",
     
   }
 ]
