@@ -6,17 +6,6 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  images: {
-    remotePatterns: [
-      
-      {
-        protocol: 'https',
-        hostname: 'i.postimg.cc',
-        pathname: '**',
-      },
-     
-    ],
-  },
   experimental: {
     serverComponentsExternalPackages: ['nodemailer']
   }

@@ -2,7 +2,6 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import Image from 'next/image'
 import { motion } from 'framer-motion'
 import ContactForm from '@/components/ui/ContactForm'
 
@@ -24,7 +23,11 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <div className="flex items-center">
             <Link href="/">
-              <Image src="https://i.postimg.cc/NjcSGhhv/wmremove-transformed-removebg-preview-1.png" alt="QuickLaunch Digital Logo" width={230} height={60} />
+              <img 
+                src="https://i.postimg.cc/NjcSGhhv/wmremove-transformed-removebg-preview-1.png" 
+                alt="QuickLaunch Digital Logo" 
+                className="w-[230px] h-auto"
+              />
             </Link>
           </div>
           <div className="hidden md:flex items-center space-x-4">

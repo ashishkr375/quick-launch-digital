@@ -1,6 +1,5 @@
 'use client'
 
-import Image from 'next/image'
 import { motion } from 'framer-motion'
 import { ArrowRight, MessageCircle } from 'lucide-react'
 import { useState } from 'react'
@@ -83,12 +82,10 @@ export default function Hero() {
               <div className="absolute top-0 -right-4 w-72 h-72 bg-yellow-300 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-2000" />
               <div className="absolute -bottom-8 left-20 w-72 h-72 bg-pink-300 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-4000" />
               <div className="relative">
-                <Image
+                <img
                   src="https://i.postimg.cc/htgNrFtP/image.png"
                   alt="Small business going digital"
-                  width={600}
-                  height={400}
-                  className="rounded-2xl shadow-2xl"
+                  className="w-full rounded-2xl shadow-2xl"
                 />
               </div>
             </div>

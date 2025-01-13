@@ -1,6 +1,5 @@
 'use client'
 
-import Image from 'next/image'
 import { motion } from 'framer-motion'
 import { Linkedin } from 'lucide-react'
 
@@ -55,13 +54,13 @@ export default function Team() {
               transition={{ duration: 0.5, delay: index * 0.1 }}
               className="bg-white rounded-lg shadow-md overflow-hidden"
             >
-              <Image
-                src={member.image}
-                alt={member.name}
-                width={300}
-                height={300}
-                className="w-full h-48 object-cover"
-              />
+              <div className="relative w-full aspect-square rounded-lg overflow-hidden mb-4">
+                <img
+                  src={member.image}
+                  alt={member.name}
+                  className="w-full h-full object-cover"
+                />
+              </div>
               <div className="p-4">
                 <h3 className="text-xl font-semibold text-gray-900">{member.name}</h3>
                 <p className="text-gray-600">{member.role}</p>
