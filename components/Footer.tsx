@@ -48,11 +48,28 @@ export default function Footer() {
             </div>
           </div>
         </div>
-        <div className="mt-8 pt-8 border-t border-primary-800 text-center">
-          <p className="text-primary-300">
-            &copy; {new Date().getFullYear()} QuickLaunch Digital. All rights reserved.
-          </p>
-          <p className="text-primary-400 mt-2">
+        <div className="mt-8 pt-8 border-t border-primary-800">
+          <div className="flex flex-col md:flex-row justify-between items-center">
+            <p className="text-primary-300">
+              &copy; {new Date().getFullYear()} QuickLaunch Digital. All rights reserved.
+            </p>
+            <div className="flex gap-4 mt-4 md:mt-0">
+              <Link 
+                href="/privacy-policy" 
+                className="text-primary-300 hover:text-secondary-300 transition-colors"
+              >
+                Privacy Policy
+              </Link>
+              <span className="text-primary-300">•</span>
+              <Link 
+                href="/terms" 
+                className="text-primary-300 hover:text-secondary-300 transition-colors"
+              >
+                Terms of Service
+              </Link>
+            </div>
+          </div>
+          <p className="text-primary-400 mt-2 text-center">
             &copy; {new Date().getFullYear()} क्विकलॉन्च डिजिटल। सर्वाधिकार सुरक्षित।
           </p>
         </div>
